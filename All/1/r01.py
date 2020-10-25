@@ -1,4 +1,4 @@
-
+#轉換聊天內容格式
 def read_file(filename):
 	lines = []
 	with open(filename, 'r', encoding = 'utf-8-sig') as f:
